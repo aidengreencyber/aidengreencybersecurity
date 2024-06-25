@@ -11,7 +11,7 @@ My journey in cybersecurity has led me to develop a passion for protected data, 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          | <a href="(https://github.com/aidengreencyber/Live-Persistence-Kali-Linux)">Live Persistence Kali Linux</a>|
+|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          | <a href="https://github.com/aidengreencyber/Live-Persistence-Kali-Linux">Live Persistence Kali Linux</a>|
 
 ## Tools
 
